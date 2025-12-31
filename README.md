@@ -30,6 +30,15 @@ Analizar la relación entre variables climáticas y el desempeño del transporte
 ## 💡 Resultados clave
 El análisis permitió identificar cómo ciertas condiciones climáticas influyen en el comportamiento del transporte, ofreciendo insights útiles para la planificación y gestión operativa.
 
+## 📸 Visualizaciones del proyecto
+
+### Relación entre clima y transporte
+![Impacto del clima](images/graficatrafico.png)
+
+### Conclusiones del análisis
+![Conclusiones](images/capturaconclusionestrafico.png)
+
+
 ## 👩‍💻 Autor
 **Valeria Mercado Jaramillo**  
 Junior Data Analyst  
